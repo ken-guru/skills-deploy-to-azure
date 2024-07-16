@@ -11,7 +11,6 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: ken-guru-azure-ttt
   AZURE_WEBAPP_NAME: ken-guru-ttt-app
-  ###############################################
 
 jobs:
   build:
